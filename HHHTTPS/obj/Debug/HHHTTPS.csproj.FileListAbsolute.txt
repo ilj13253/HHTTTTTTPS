@@ -1,0 +1,6 @@
+C:\Users\Илья\source\repos\HHHTTPS\bin\Debug\HHHTTPS.exe.config
+C:\Users\Илья\source\repos\HHHTTPS\bin\Debug\HHHTTPS.exe
+C:\Users\Илья\source\repos\HHHTTPS\bin\Debug\HHHTTPS.pdb
+C:\Users\Илья\source\repos\HHHTTPS\obj\Debug\HHHTTPS.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\HHHTTPS\obj\Debug\HHHTTPS.exe
+C:\Users\Илья\source\repos\HHHTTPS\obj\Debug\HHHTTPS.pdb
